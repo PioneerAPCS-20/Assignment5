@@ -1,6 +1,6 @@
 # Assignment 5
 
-You will be using methods and fields from the `Math` class in order to generate points from a trigonometric function. Please refer to your notes and the offical [Java docs](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html).
+You will be using functions and fields from the `Math` class in order to generate points from a trigonometric function. Please refer to your notes and the offical [Java docs](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html).
 
 ## Specifications
 
@@ -13,7 +13,7 @@ Please use the following function:
 
 ![alt text](https://i.imgur.com/5lnPOul.png)
 
-Note: you must use the field for pi and methods for sine and exponents.
+Note: you must use the field for pi and functions for sine and exponents.
 
 ### Sample Outputs
 
