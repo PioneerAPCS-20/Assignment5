@@ -19,17 +19,17 @@ Note: you must use the field for pi and functions for sine and exponents.
 
 ```
 Enter an x value (degrees): 0
-The point is: (0.0, -1.1213203435596428)
+The point is: (0.0, 2.5000000000000004)
 ```
 
 ```
 Enter an x value (degrees): 120
-The point is: (2.0943951023931953, 0.22354286469243734)
+The point is: (2.0943951023931953, 1.2009618943233422)
 ```
 
 ```
 Enter an x value (degrees): -315
-The point is: (-5.497787143782138, -2.0)
+The point is: (-5.497787143782138, 4.0)
 ```
 
 ### Grading
